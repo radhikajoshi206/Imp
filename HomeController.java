@@ -27,7 +27,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 public class HomeController {
 	
 	@Autowired
-	RestTemplate rt;
+	RestTemplate rt;// autowire is imp
 	
 	
 	
